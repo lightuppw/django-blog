@@ -25,7 +25,7 @@ SECRET_KEY = '+mja=j0^_)dzthsgsr=kar-9e1^ht8*d_i2v_-3t(gyd53e30_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['lightup2017.pythonanywhere.com']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
